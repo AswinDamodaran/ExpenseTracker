@@ -1,0 +1,34 @@
+.cardwrapper{
+    position: relative;
+    background-color: #9B9B9B;
+    color: #FFFFFF;
+    width: 80%;
+
+    /* padding: 3% 0; */
+    /* margin: 20px 60px; */
+    margin-left: 60px;
+    border-radius: 10px;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cardtitle{
+    color:#FFFFFF ;
+    font-weight: 400;
+    font-size: 30px;
+    /* margin-bottom: 0; */
+
+}
+.cardtitle span{
+    font-weight: 700;
+}
+.failure{
+color: #F4BB4A;
+}
+.success{
+    color: #9DFF5B;
+    
+}

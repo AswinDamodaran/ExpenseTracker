@@ -1,0 +1,19 @@
+.transactionMain{
+    border-radius: 15px;
+    text-align: start;
+    width: 60%;
+
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+.emptyExpense{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    color: black;
+    text-align: center;
+}
