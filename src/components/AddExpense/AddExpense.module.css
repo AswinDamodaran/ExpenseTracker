@@ -9,6 +9,7 @@ input,select {
     box-shadow: 0px 4px 4px 0px #00000040;
     border: none;
     margin: 10px;
+    color: black;
 
 }
 .button{

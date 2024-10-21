@@ -44,7 +44,7 @@ const renderCustomizedLabel = ({
 export default function piechart({ data }) {
   const filteredData = data.filter((entry) => entry.value > 0);
   return (
-    <ResponsiveContainer width="100%" height="100%">
+    <ResponsiveContainer width="100%" height={280}>
       <PieChart width={400} height={400}>
         <Pie
           data={filteredData}
